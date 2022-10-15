@@ -16,10 +16,6 @@ git clone git@github.com:lukasvasadi/pyqt-template.git
 
 ```bash
 pip install -r requirements.txt
-# for M1 Macs
-brew install pyqt5
-export PYTHONPATH="/opt/homebrew/Cellar/pyqt@5/5.15.7_1/lib/python3.9/site-packages"
-pip install -r requirements-m1.txt
 ```
 
 3. Run the application:

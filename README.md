@@ -2,7 +2,7 @@
 
 Basic timer application that demonstrates most of the core functionality of PyQt. To use as a template, simply click the `Use this template` button at the top of the repository page.
 
-<img src="images/pyqt-template-app.png" alt="PyQt application window" width="300px" align="center"/>
+<img src="images/pyqt-template-app.png" alt="PyQt application window" width="400px" align="center"/>
 
 ## To contribute to the source code
 

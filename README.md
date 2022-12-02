@@ -1,4 +1,4 @@
-# PyQt Template Application
+# PyQt Countdown (Template Application)
 
 Basic timer application that demonstrates most of the core functionality of PyQt. To use as a template, simply click the `Use this template` button at the top of the repository page.
 
